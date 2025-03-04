@@ -1,5 +1,3 @@
-
-** 
 **Câu 1:**  
 Sau khi học xong môn này, em muốn biết cách lập trình ứng dụng di động và có thể tự tạo một app đơn giản. 
 Hơn thế nữa là em muốn học thêm nhiều kiến thức bổ ích để sau này đi làm.
